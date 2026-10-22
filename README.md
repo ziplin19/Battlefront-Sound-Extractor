@@ -1,3 +1,4 @@
+![Battlefront Sound Extractor](Soundtrooper01.png)
 # Battlefront Sound Extractor
 
 > **New here? Find the game's sound files first**
